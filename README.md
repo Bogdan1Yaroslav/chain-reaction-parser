@@ -45,7 +45,7 @@ ___
 ### Website
 ![img.png](img.png)
 ___
-### Result data
+### Resulted data
 ![img_1.png](img_1.png)
 
 #### You can find full dataset in `2022-11-29 CR products.xlsx`.
